@@ -330,11 +330,11 @@ header {
 header span {
   font-size: 1.6rem;
   font-weight: 700;
-  color: #363737;
+  color: #000000;
 }
 
 header a.phone_number {
-  color: #00184b;
+  color: #895129;
   text-decoration: none;
   font-size: 1.5rem;
 }
@@ -359,11 +359,11 @@ nav ul li a {
 }
 nav ul li.active a {
   background-color: #fff;
-  color: #363737;
+  color: #000000;
   border-radius: 10px;
 }
 nav ul li a:hover {
-  border: 1px solid #363737;
+  border: 1px solid #000000;
   border-radius: 10px;
 }
 
@@ -371,7 +371,7 @@ nav ul li a:hover {
 main h1 {
   padding: 1rem 16px 0.5rem 16px;
   font-size: 1.5rem;
-  color: #00184b;
+  color: #000000;
   font-weight: 300;
 }
 main section {
@@ -390,7 +390,7 @@ main section div img {
 main section div p {
   margin: 0;
   padding: 0.5rem;
-  background-color: #00184b;
+  background-color: #000000;
   border-radius: 0 0 10px 10px;
   color: #fff;
   text-align: center;
